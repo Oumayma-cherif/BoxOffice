@@ -14,6 +14,7 @@
 		A27A32102AD2032500FF662D /* BoxOffice.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A27A320E2AD2032500FF662D /* BoxOffice.xcdatamodeld */; };
 		A27A32122AD2032600FF662D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A27A32112AD2032600FF662D /* Assets.xcassets */; };
 		A27A32152AD2032600FF662D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A27A32132AD2032600FF662D /* LaunchScreen.storyboard */; };
+		A27A32242AD208FF00FF662D /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A27A32232AD208FF00FF662D /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		A27A32142AD2032600FF662D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A27A32162AD2032600FF662D /* BoxOffice.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BoxOffice.entitlements; sourceTree = "<group>"; };
 		A27A32172AD2032600FF662D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A27A32232AD208FF00FF662D /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A27A32052AD2032500FF662D /* AppDelegate.swift */,
 				A27A32072AD2032500FF662D /* SceneDelegate.swift */,
 				A27A32092AD2032500FF662D /* ViewController.swift */,
+				A27A32232AD208FF00FF662D /* DetailViewController.swift */,
 				A27A320B2AD2032500FF662D /* Main.storyboard */,
 				A27A32112AD2032600FF662D /* Assets.xcassets */,
 				A27A32132AD2032600FF662D /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 			files = (
 				A27A320A2AD2032500FF662D /* ViewController.swift in Sources */,
 				A27A32062AD2032500FF662D /* AppDelegate.swift in Sources */,
+				A27A32242AD208FF00FF662D /* DetailViewController.swift in Sources */,
 				A27A32082AD2032500FF662D /* SceneDelegate.swift in Sources */,
 				A27A32102AD2032500FF662D /* BoxOffice.xcdatamodeld in Sources */,
 			);
